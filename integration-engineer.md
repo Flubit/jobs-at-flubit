@@ -19,7 +19,8 @@ Here are some things that we consider critical to being successful in this role:
 * You have familiarity with a wide variety of software development methodologies, tools, languages and approaches.
 * You are someone that others enjoy working with due to your technical compete	nce and positive attitude.
 * You have at least two years software development experience, a large portion of which has been in a team environment.
-* And it would be great if you also had:
-** Academic background in computer science (BSc or MSc).
-** Prior experience with or knowledge of eCommerce software platforms.
-** Experience in rapidly moving startup environments.
+
+##### And it would be great if you also had:
+* Academic background in computer science (BSc or MSc).
+* Prior experience with or knowledge of eCommerce software platforms.
+* Experience in rapidly moving startup environments.
