@@ -5,7 +5,7 @@ Flubit is looking for an integrations engineer to help build out our ability to 
 
 We already integrate with a number of eCommerce solutions, including Magento, OpenCart, Linnworks and Storefeeder. 
 
-You will be working a part of the web services engineering team to write the code that will connect the WeFlubit API to other eCommerce APIs. You should be well adversed at implementing against complex APIs, dealing with confusing errors and fighting unpredictable network conditions.
+You will be working as part of the web services engineering team to write the code that will connect the WeFlubit API to other eCommerce APIs. You should be well adversed at implementing against complex APIs, dealing with confusing errors and fighting unpredictable network conditions.
 
 Here are some things that we consider critical to being successful in this role:
 
