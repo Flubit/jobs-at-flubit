@@ -3,7 +3,7 @@ BeFlubit Product Manager
 
 Flubit is a rapidly growing e-commerce technology start-up. Our core product, [Flubit.com](https://flubit.com/), is a private marketplace that connects shoppers with online retailers via a revolutionary personalised shopping service. [BeFlubit](https://www.beflubit.com/) is our latest proposition for Flubit partners and allows any business to integrate and natively sell millions of products to their users.
 
-We are seeking a smart, curious and hard working product manager who will combine left and right brain thinking in the right way to deliver brilliant results for our BeFlubit partners. Being a startup, we are looking for someone who is happy to multi-task and ready to get their hands dirty. You should be willing and expect to learn a lot on the job, whilst also bringing expertise to the company.
+We are seeking a smart, curious and hard working product manager who will combine left and right brain thinking in the right way to deliver brilliant results for our BeFlubit partners. Being a startup, we are looking for someone who is happy to multi-task and ready to get their hands dirty. You should be willing and expect to learn a lot on the job, whilst also bringing expertise to the role.
 
 ##### Responsibilities:
 * Working with the Head of Partnerships to define and deliver the BeFlubit product roadmap.
