@@ -1,4 +1,4 @@
-Senior Frontend Engineer
+Frontend Engineer
 ===========================
 
 Flubit is looking for a talented frontend software engineer who will be responsible for implementing new features on flubit.com, skucloud.co.uk as well as internal applications along with optimising and scaling these to their fullest potential. 
